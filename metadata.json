@@ -1,0 +1,7 @@
+{
+  "name": "Nena Pahana - Sinhala AI Tutor",
+  "description": "An intelligent educational assistant featuring a virtual cartoon teacher that thinks and adapts to students automatically.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
